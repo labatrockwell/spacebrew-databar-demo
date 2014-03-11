@@ -30,7 +30,7 @@ RadioButton modeUI;
 
 // String server="ec2-184-72-140-184.compute-1.amazonaws.com"; 
 //String server="lab-server.rockwellgroup.com"; 
-String server="sandbox.spacebrew.cc"; 
+String server="127.0.0.1";//"sandbox.spacebrew.cc"; 
 String name="ArduinoLEDBar"; 
 String description ="This is an example subscriber client for listening to range values";
 Spacebrew spacebrewConnection;
